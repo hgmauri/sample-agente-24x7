@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Loja.Api/Loja.Api.csproj" />
+    <Project Path="src/Vigia.Agente/Vigia.Agente.csproj" />
+  </Folder>
+</Solution>
